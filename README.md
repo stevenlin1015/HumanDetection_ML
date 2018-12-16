@@ -20,9 +20,9 @@
 * 硬體環境
 * 辨識準確度
 * 檢討與討論，包含：
-    * 雜訊問題。
-    * 資料集數量。
-    * 心得。
+    * 雜訊問題
+    * 資料集數量
+    * 心得
 ![](https://github.com/stevenlin1015/HumanDetection_ML/blob/master/ppt_export/投影片02.jpeg "Overview")
 
 ****
